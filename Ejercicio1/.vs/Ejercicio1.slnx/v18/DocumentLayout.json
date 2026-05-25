@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\trabajoJava\\Ejercicios-Consola\\Ejercicio1\\",
+  "WorkspaceRootPath": "C:\\JavaScript\\Ejercicio1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|c:\\trabajojava\\ejercicios-consola\\ejercicio1\\validacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|c:\\javascript\\ejercicio1\\convertidor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|solutionrelative:convertidor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|c:\\javascript\\ejercicio1\\validacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|solutionrelative:validacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|c:\\trabajojava\\ejercicios-consola\\ejercicio1\\calculadora.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|c:\\javascript\\ejercicio1\\calculadora.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|solutionrelative:calculadora.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|c:\\javascript\\ejercicio1\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|solutionrelative:eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,61 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "validacion.js",
-              "DocumentMoniker": "C:\\trabajoJava\\Ejercicios-Consola\\Ejercicio1\\validacion.js",
-              "RelativeDocumentMoniker": "validacion.js",
-              "ToolTip": "C:\\trabajoJava\\Ejercicios-Consola\\Ejercicio1\\validacion.js",
-              "RelativeToolTip": "validacion.js",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
+              "Title": "Convertidor.js",
+              "DocumentMoniker": "C:\\JavaScript\\Ejercicio1\\Convertidor.js",
+              "RelativeDocumentMoniker": "Convertidor.js",
+              "ToolTip": "C:\\JavaScript\\Ejercicio1\\Convertidor.js",
+              "RelativeToolTip": "Convertidor.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-05-25T19:20:34.706Z",
+              "WhenOpened": "2026-05-25T19:50:55.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "calculadora.js",
-              "DocumentMoniker": "C:\\trabajoJava\\Ejercicios-Consola\\Ejercicio1\\calculadora.js",
-              "RelativeDocumentMoniker": "calculadora.js",
-              "ToolTip": "C:\\trabajoJava\\Ejercicios-Consola\\Ejercicio1\\calculadora.js",
-              "RelativeToolTip": "calculadora.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Title": "validacion.js",
+              "DocumentMoniker": "C:\\JavaScript\\Ejercicio1\\validacion.js",
+              "RelativeDocumentMoniker": "validacion.js",
+              "ToolTip": "C:\\JavaScript\\Ejercicio1\\validacion.js",
+              "RelativeToolTip": "validacion.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-05-25T19:19:04.297Z",
+              "WhenOpened": "2026-05-25T19:50:28.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "calculadora.js",
+              "DocumentMoniker": "C:\\JavaScript\\Ejercicio1\\calculadora.js",
+              "RelativeDocumentMoniker": "calculadora.js",
+              "ToolTip": "C:\\JavaScript\\Ejercicio1\\calculadora.js",
+              "RelativeToolTip": "calculadora.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-25T19:49:19.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\JavaScript\\Ejercicio1\\eslint.config.js",
+              "RelativeDocumentMoniker": "eslint.config.js",
+              "ToolTip": "C:\\JavaScript\\Ejercicio1\\eslint.config.js",
+              "RelativeToolTip": "eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-25T19:49:16.785Z",
               "EditorCaption": ""
             }
           ]
