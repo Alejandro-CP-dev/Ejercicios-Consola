@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Ejercicio1.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
