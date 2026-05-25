@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\trabajoJava\\Ejercicios-Consola\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|c:\\trabajojava\\ejercicios-consola\\ejercicio1\\validacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|solutionrelative:validacion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|c:\\trabajojava\\ejercicios-consola\\ejercicio1\\calculadora.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EDFDC5EF-5B84-42D1-0617-9F341662127B}|Ejercicio1.esproj|solutionrelative:calculadora.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "validacion.js",
+              "DocumentMoniker": "C:\\trabajoJava\\Ejercicios-Consola\\Ejercicio1\\validacion.js",
+              "RelativeDocumentMoniker": "validacion.js",
+              "ToolTip": "C:\\trabajoJava\\Ejercicios-Consola\\Ejercicio1\\validacion.js",
+              "RelativeToolTip": "validacion.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-25T19:20:34.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculadora.js",
+              "DocumentMoniker": "C:\\trabajoJava\\Ejercicios-Consola\\Ejercicio1\\calculadora.js",
+              "RelativeDocumentMoniker": "calculadora.js",
+              "ToolTip": "C:\\trabajoJava\\Ejercicios-Consola\\Ejercicio1\\calculadora.js",
+              "RelativeToolTip": "calculadora.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-25T19:19:04.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
